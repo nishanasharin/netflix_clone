@@ -1,0 +1,67 @@
+
+    
+    
+body, html {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+    .navbar{
+    background-color: transparent !important;
+    }
+    
+    .img {
+      background-image: url('ntflx.jpg');
+      background-size: cover;
+      display: block;
+    }
+    
+    .accordion-button {
+      background-color: rgb(77, 74, 74);
+      color: white;
+      box-shadow: none;
+    }
+    .accordion-button:not(.collapsed){
+      background-color: gray;
+      color: black;
+    }
+    .accordion-body {
+      background-color: rgb(85, 84, 84);
+      color: white;
+    }
+    .accordion-item{
+      background-color: gray;
+      border: none;
+    }
+    .lmn{
+      background-color: black;
+      color: white;
+    }
+    
+   .mail{
+    background-color: black;
+    color: white;
+  
+    }
+    .mail-box{
+      max-width: 400px;
+  flex: 1;       
+    }
+   .drop{
+    text-align: left;
+    background-color: black;
+    color: white;
+   }
+   .card {
+  border: none !important;
+  background: transparent !important; 
+}
+
+.caaar .card-body{
+  background-image: url(color.jpg);
+}
+
+
+
+
